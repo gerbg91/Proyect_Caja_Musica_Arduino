@@ -7,5 +7,6 @@
 - Potonciometro
 - Transistor
 - Resistencias
+- Arduino UNO
 # Autor
 gerbg91
